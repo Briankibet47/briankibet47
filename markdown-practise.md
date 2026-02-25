@@ -22,7 +22,7 @@
   | Git     |Version control            |https://git-scm.com/           |
   | VS code |code editor for development|https://code.visualstudio.com/ |
 ### Exercise 6
-- [ * ]  Introduction to artificial intelligence
+- [ ]  Introduction to artificial intelligence
 - [ ]    AI Introduction Architecture
 - [ ]    AI for productivity and business systems
 - [ ]    Data Foundations and AI Thinking
@@ -42,8 +42,11 @@ print("Hello, world!")
 I am a dedicated studentcurrently persuing a specialization in **artificial intelligence**. My journey is driven by deep fascination with how AI is defining the global technological landscape. I am committed to staying ahead of the curve to ensure i conrtibute meaningfully to the future of innovation.
 ## Expertise & Interests
 -**specialization** Intensive short course in Artificial Intelligence
+
 -**Focus Areas:** Machine learning, Tech Evolution, and future proofing
+
 -**Motivation:** Bridging the gap between current technology and  AI-driven solutions
+
 ## Carrier Goals
 I aim to leverage my AI training to solve real-world problems
 
