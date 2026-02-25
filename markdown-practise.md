@@ -18,14 +18,14 @@
   ### Table
 
   | Tool    | purpose                   | Link                          |
-  -----------------------------------------------------------------------
+  |---------|---------------------------|-------------------------------|
   | Git     |Version control            |https://git-scm.com/           |
   | VS code |code editor for development|https://code.visualstudio.com/ |
 ### Exercise 6
-- [* ]  Introduction to artificial intelligence
-- [ ]   AI Introduction Architecture
-- [ ]   AI for productivity and business systems
-- [ ]   Data Foundations and AI Thinking
+- [ * ]  Introduction to artificial intelligence
+- [ ]    AI Introduction Architecture
+- [ ]    AI for productivity and business systems
+- [ ]    Data Foundations and AI Thinking
 ### Exercise 7
 ### code blocks
 ```python
@@ -46,6 +46,7 @@ I am a dedicated studentcurrently persuing a specialization in **artificial inte
 -**Motivation:** Bridging the gap between current technology and  AI-driven solutions
 ## Carrier Goals
 I aim to leverage my AI training to solve real-world problems
+
 ---
 [Connect with me on linkedIn](Brian Kibet) | [view my Github](https://briankibet47.github.io/briankibet47/)
 
