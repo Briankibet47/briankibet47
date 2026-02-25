@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm [Brian Kibet Cheruiyot ]
 
-<!--
-**Briankibet47/briankibet47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning [Artificial intelligence at IYF we can Academy].
+- I'm interested in [AI, web development, and machine learning].
+- I'm looking to collaborate on [beginner-friendly open source projects].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- [Python,HTML/CSS, Machine Learning]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [AI learning ] —practising machine learning algorithms
+
+## How to Reach Me
+- Email: [briancheruiyot5347@gmail.com]
+- LinkedIn: [brian Kibet]
+  
