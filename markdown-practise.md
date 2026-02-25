@@ -1,6 +1,6 @@
 ## My learning Goals
 ### This Semister
-### Excercise 2
+### Exercise 2
 **Artificial intelligence** is the *future* of ~~technology~~
 ### Exercise 3
 [link text](https://briankibet47.github.io/briankibet47/)
