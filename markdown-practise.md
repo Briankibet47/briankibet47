@@ -23,7 +23,7 @@
   | Git     |Version control            |https://git-scm.com/           |
   | VS code |code editor for development|https://code.visualstudio.com/ |
 ### Exercise 6
--  *   Introduction to artificial intelligence
+- [*]    Introduction to artificial intelligence
 - [ ]    AI Introduction Architecture
 - [ ]    AI for productivity and business systems
 - [ ]    Data Foundations and AI Thinking
